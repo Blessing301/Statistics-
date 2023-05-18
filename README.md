@@ -1,2 +1,2 @@
 # Advanced-google-data-analytics-project
-z score application
+Application of z score to extract outliers
