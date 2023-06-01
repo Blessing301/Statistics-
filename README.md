@@ -1,1 +1,1 @@
-# Advanced-google-data-analytics-project covers my statistical project.
+# Advanced-google-data-analytics-project respository covers my statistical project.
